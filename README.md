@@ -4,8 +4,6 @@ This is the working area for the [SCIM Working Group](https://datatracker.ietf.o
 
 
 
-
-
 # Note Well
 
 This is a reminder of [Internet Engineering Task Force
